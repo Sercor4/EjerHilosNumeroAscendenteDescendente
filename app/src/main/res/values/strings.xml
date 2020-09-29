@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">EjerHilosNumeroAscendenteDescendente</string>
+
+    <string name="butEjecutar">Ejecutar</string>
+    <string name="tvAscendente"></string>
+    <string name="tvDescendente"></string>
+    <string name="tvAmbos"></string>
+</resources>
